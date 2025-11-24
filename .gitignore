@@ -42,5 +42,8 @@ datasets/
 .ipynb_checkpoints/
 *.checkpoint
 
+# Artigos muito extensos
+themes/_4_knowledge_graphs/references
+
 # Outros
 __MACOSX/
